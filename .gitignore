@@ -1,0 +1,6 @@
+*.sln
+*.vcxproj*
+Debug
+.vs
+*.ttf
+*.dll
