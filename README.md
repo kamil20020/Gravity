@@ -1,5 +1,5 @@
 # Symulator ruchu planet (10.2020)
-Graficzna symulacja 2D ruchu planet. 
+Graficzna symulacja 2D ruchu planet.  
 
 ## Wymagania funkcjonalne:
 * Uruchomienie domyślnej symulacji,
